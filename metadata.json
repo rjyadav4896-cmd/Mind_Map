@@ -1,0 +1,6 @@
+{
+  "name": "CanvasFlow - Visual Brainstorming & Whiteboard",
+  "description": "Infinite canvas whiteboarding tool with sticky notes, mind maps, smart wire connections, shapes, and drawing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
